@@ -1,0 +1,14 @@
+{
+  "outDir": "./design-tokens",
+  "clean": true,
+  "themes": {
+    "theme": {
+      "colors": {
+        "main": { "primary": "#BD9D53" },
+        "neutral": "#F7F7F2",
+        "support": { "extra1": "#71AFD1" }
+      },
+      "borderRadius": 4
+    }
+  }
+}
